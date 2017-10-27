@@ -16,11 +16,9 @@ Następnie skommituj zmiany komendą `git commit -m "nazwa_commita"`
 4. Wypchnij zmiany do swojego repozytorium na GitHubie.  Użyj do tego komendy `git push origin master`
 5. Stwórz [*pull request*](https://help.github.com/articles/creating-a-pull-request) do oryginalnego repozytorium, gdy skończysz wszystkie zadania.
 
-## Zadania
+## Ważne
 
-Pamiętaj, aby przy wykonywaniu zadań zadbać o odpowiednie wcięcia, zarówno w kodzie HTML jak i CSS.
-
-* [Formatowanie kodu HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html/)
+Pamiętaj, aby przy wykonywaniu zadań zadbać o odpowiednie wcięcia, zarówno w kodzie HTML, jak i CSS. Przed przystąpieniem do pracy nad preworkiem przeczytaj artykuł poradniczy na temat [zasad pisania czytelnego kodu](http://coderslab.pl/blog/dobre-praktyki/zasady-pisania-czytelnego-kodu-czyli-o-kulturze-programisty). Warto też zapoznać się z tym tekstem: [Formatowanie kodu HTML](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html/).
 
 
-**Repozytorium z ćwiczeniami zostanie usunięte 2 tygodnie po zakończeniu kursu. Spowoduje to też usunięcie wszystkich forków, które są zrobione z tego repozytorium.**
+**Zadania zostaną usunięte dwa tygodnie po zakończeniu kursu. Spowoduje to też likwidację wszystkich forków, które są zrobione z tego repozytorium.**

@@ -1,17 +1,49 @@
-<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
+<img alt="logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
 
-# HTML / CSS - ćwiczymy CSS
+# HTML/CSS &ndash; elementy obok siebie
 
-1. Stwórz 2 elementy div. Ustaw szerokość i wysokość dla każdego z nich w pliku style.css. Pamiętaj, aby ustawić im również obramowanie lub kolor tła jeśli chcesz je zobaczyć w przeglądarce.
+Ustaw elementy według poniższego wzoru.
 
-2. Ustaw pierwszy div z poprzedniego zadania z lewej strony przeglądarki, a drugi z prawej.
+![screen](images/elements.png)
 
-3. Stwórz następne 2 elementy, tym razem p. Ustaw szerokość i wysokość dla każdego z nich oraz obramowanie. Wykorzystaj zdobytą wiedzę i ustaw je obok siebie (nie po przeciwnych stronach przeglądarki)
+##### 1. W pierwszym wierszu mają być dwa elementy **div** o następujących własnościach:
+  * szerokość elementu: 100px,
+  * wysokość elementu: 100px,
+  * szerokość obramowania: 1px,
+  * styl obramowania: pojedyncza linia ciągła (**solid**),
+  * kolor obramowania: czarny.
 
-4. Dodaj style do paragrafu. Zobacz obrazek niżej:
+  Pierwszy div ma znajdować się po lewej stronie, a drugi &ndash; po prawej.
+Między nimi nie może być żadnych elementów.
 
-    ![Some text](images/text.png)
+
+##### 2. W drugim wierszu mają się znaleźć dwa paragrafy o następujących własnościach:
+  * szerokość elementu: 80px,
+  * szerokość obramowania: 2px,
+  * styl obramowania: pojedyncza linia kropkowana (**dotted**),
+  * kolor obramowania: czerwony.
+
+  Paragrafy maja ustawiać się obok siebie, po lewej stronie.
+
+---
+
+## Ważne
+Do odpowiedniego ustawienia elementów możesz korzystać wyłącznie z następujących własności:
+  * **display**
+  * **float**
+  * **clear**
+
+Nie musisz jednak korzystać ze wszystkich wyżej wymienionych.
+
+Aby ustawić elementy obok siebie skorzystaj albo z **float** albo z **display**. W tym przypadku nie może być w jednym elemencie obu tych własności na raz.
+
+
 
 ## Potrzebujesz pomocy lub inspiracji?
-* [Jeśli nie roumiesz czym jest tag div](http://www.html-5-tutorial.com/div-tag.htm)
-* HTML i CSS - pre-work
+* [tutorial, div](http://www.html-5-tutorial.com/div-tag.htm)
+* [dokumentacja, display](https://developer.mozilla.org/pl/docs/Web/CSS/display)
+* [tutorial,  display](http://css.webcodehelpers.com/2014/05/css-display-block-vs-inline-block-vs.html)
+* [dokumentacja, float](https://developer.mozilla.org/pl/docs/Web/CSS/float)
+* [tutorial, float](http://learnlayout.com/float.html)
+* [dokumentacja, clear](https://developer.mozilla.org/pl/docs/Web/CSS/clear)
+* HTML i CSS &ndash; prework
