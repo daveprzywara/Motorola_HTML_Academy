@@ -25,8 +25,8 @@ Celem poniższych zadań jest odpowiednie korzystanie z selektorów elementu, kl
 1. Stwórz pięć paragrafów. Ustaw wszystkim brązowy kolor fontu.
 
 2. Stwórz dwa kolejne paragrafy i ustaw im odpowiednie **id**:
-* pierwszy o zielonym kolorze fontu i **id="first-paragraph"**,
-* drugi o czerwonym kolorze fontu i **id="second-paragraph"**.
+* pierwszy o zielonym kolorze tekstu i **id="first-paragraph"**,
+* drugi o fioletowym (violet) kolorze tekstu i **id="second-paragraph"**.
 
 3. Stwórz pięć elementów **div** o klasie **block**, mają one mieć następujące własności:
     * szerokość: 100px,
