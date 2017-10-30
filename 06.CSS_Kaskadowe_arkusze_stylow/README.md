@@ -22,11 +22,11 @@ W pliku **html** do tagu **body** dodaj atrybut **style**. Ustaw zielony kolor t
 ## class i id
 Celem poniższych zadań jest odpowiednie korzystanie z selektorów elementu, klasy oraz identyfikatora (id). Wykonaj poniższe polecenia, wykorzystaj wszystkie trzy typy selektorów.
 
-1. Stwórz dwa paragrafy:
-    * pierwszy o zielonym kolorze fontu,
-    * drugi o czerwonym kolorze fontu.
+1. Stwórz pięć paragrafów. Ustaw wszystkim brązowy kolor fontu.
 
-2. Stwórz kolejne pięć paragrafów. Ustaw wszystkim brązowy kolor fontu.
+2. Stwórz dwa kolejne paragrafy i ustaw im odpowiednie **id**:
+* pierwszy o zielonym kolorze fontu i **id="first-paragraph"**,
+* drugi o czerwonym kolorze fontu i **id="second-paragraph"**.
 
 3. Stwórz pięć elementów **div** o klasie **block**, mają one mieć następujące własności:
     * szerokość: 100px,
