@@ -31,7 +31,6 @@ Ustaw elementy według poniższego wzoru.
   #second-div {
     //Tutaj deklaracja własności indywidualnych dla diva o id="second-div"
   }
-
   ```
 
   Pierwszy div ma znajdować się po lewej stronie, a drugi &ndash; po prawej.
