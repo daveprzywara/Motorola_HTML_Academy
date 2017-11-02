@@ -23,13 +23,13 @@ Ustaw elementy według poniższego wzoru.
 
   ```css
   div {
-    //Tutaj deklaracja własności dla obu diwów
+    /* Tutaj deklaracja własności dla obu diw-ów */
   }
   #first-div {
-    //Tutaj deklaracja własności indywidualnych dla diva o id="first-div"
+    /* Tutaj deklaracja własności indywidualnych dla diva o id="first-div" */
   }
   #second-div {
-    //Tutaj deklaracja własności indywidualnych dla diva o id="second-div"
+    /* Tutaj deklaracja własności indywidualnych dla diva o id="second-div" */
   }
   ```
 
