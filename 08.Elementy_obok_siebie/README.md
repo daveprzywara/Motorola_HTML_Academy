@@ -6,7 +6,13 @@ Ustaw elementy według poniższego wzoru.
 
 ![screen](images/elements.png)
 
-##### 1. W pierwszym wierszu mają być dwa elementy **div** o następujących własnościach:
+
+##### 1. Nadaj elementom odpowiednie id:
+  * Pierwszy div - na obrazku 'Div 1.' - **`id="first-div"`**
+  * drugi div - na obrazku 'Div 2.' - **`id="second-div"`**
+  * Paragrafom nie nadawaj id/klas - ostyluj je odnosząc się do selektora `p`
+
+##### 2. W pierwszym wierszu mają być dwa elementy **div** o następujących własnościach:
   * szerokość elementu: 100px,
   * wysokość elementu: 100px,
   * szerokość obramowania: 1px,
@@ -17,7 +23,7 @@ Ustaw elementy według poniższego wzoru.
 Między nimi nie może być żadnych elementów.
 
 
-##### 2. W drugim wierszu mają się znaleźć dwa paragrafy o następujących własnościach:
+##### 3. W drugim wierszu mają się znaleźć dwa paragrafy o następujących własnościach:
   * szerokość elementu: 80px,
   * szerokość obramowania: 2px,
   * styl obramowania: pojedyncza linia kropkowana (**dotted**),
