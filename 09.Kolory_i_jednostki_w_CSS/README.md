@@ -3,6 +3,7 @@
 # CSS &ndash; kolory i jednostki w CSS
 
 **Uwaga! Style pisz w pliku **style.css** a nie inline. **
+**Jako selektorów w pliku css staraj się nie używać tagów HTMLowych.**
 
 1. Stwórz dwa elementy span i nadaj im różne kolory za pomocą słów kluczowych.
 
