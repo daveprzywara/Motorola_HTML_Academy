@@ -10,6 +10,11 @@
 
 ![lista](images/lista.jpg)
 
+## Uwaga
+Postaraj się jak najlepiej odzwierciedlić przykład.
+Używaj selektorów elementów oraz klas. Nie stosuj identyfikatorów.
+
+Style pisz w pliku **style.css**, nie stosuj styli inlinowych.
 
 ## Potrzebujesz pomocy lub inspiracji?
 * [dokumentacja, style listy nieuporządkowanej](https://developer.mozilla.org/pl/docs/Web/CSS/list-style-type)
