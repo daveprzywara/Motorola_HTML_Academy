@@ -28,7 +28,7 @@
     * img
     * iframe
 
-Stwórz tabelę z wykazem wszystkich powyższych elementów HTML i ich rodzajów. Zachowaj powyższą kolejność. Każdy element musi znaleźć się w oddzielnej komórce tabeli. Wypełnij ją według schematu poniżej:
+Stwórz tabelę z wykazem wszystkich powyższych elementów HTML i ich rodzajów. Każdy element musi znaleźć się w oddzielnej komórce tabeli. Wypełnij ją według schematu poniżej:
 
  ![List of characters](images/box_model.png)
 
