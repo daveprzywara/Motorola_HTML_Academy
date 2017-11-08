@@ -3,7 +3,7 @@
 # HTML/CSS &ndash; formularze
 
 ### Wskazówki
-* Pierwszy formularz niech będzie miał klasę "contactForm", a drugi "rentCarForm".
+* Pierwszy formularz niech będzie miał klasę **contactForm**, a drugi **rentCarForm**
 * Wybierz najwłaściwszy w danym miejscu typ inputu. Inny jest potrzebny tam, gdzie użytkownik wpisuje adres email, inny gdy podaje datę, a inny gdy hasło itd.
 * Label powinien być powiązany ze swoim inputem.
 * Zauważ, że jeden z checkboksów jest domyślnie zaznaczony.
