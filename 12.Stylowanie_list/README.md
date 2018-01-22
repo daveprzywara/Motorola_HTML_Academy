@@ -2,14 +2,20 @@
 
 # CSS &ndash; Stylowanie list
 
-1. Stwórz listę nieuporządkowaną zawierającą trzy elementy i zmień jej punktory na kwadraty.
+1. Stwórz listę nieuporządkowaną o klasie **`.squareList`** zawierającą trzy elementy i zmień jej punktory na kwadraty.
 
-2. Stwórz proste menu &ndash; oparte na liście nieuporządkowanej &ndash; według wzoru poniżej.
+2. Stwórz proste menu, oparte na liście nieuporządkowanej, której nadaj klasę **`.menuList`** i ostylują ją, według wzoru poniżej.  
+
   Specyfikacja:   
   kolor tekstu: #116493.
 
 ![lista](images/lista.jpg)
 
+## Uwaga
+Postaraj się jak najlepiej odzwierciedlić przykład. **Nadaj listom odpowiednie klasy**.
+Używaj selektorów elementów oraz klas. Nie stosuj identyfikatorów.
+
+Style pisz w pliku **style.css**, nie stosuj styli inlinowych.
 
 ## Potrzebujesz pomocy lub inspiracji?
 * [dokumentacja, style listy nieuporządkowanej](https://developer.mozilla.org/pl/docs/Web/CSS/list-style-type)
