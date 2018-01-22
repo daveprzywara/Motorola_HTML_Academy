@@ -12,16 +12,23 @@
 
 3. Sprawdź, jakiego rodzaju są poniższe elementy:
 
-    * h1, h2, h3
+    * a
+    * p
+    * h1
+    * h2
+    * h3
     * div
     * span
-    * em, strong, u
-    * ul and ol
+    * em
+    * strong
+    * u
+    * ul
+    * ol
     * table
     * img
     * iframe
 
-Stwórz tabelę z wykazem wszystkich powyższych elementów HTML i ich rodzajów. Wypełnij ją według schematu poniżej:
+Stwórz tabelę z wykazem wszystkich powyższych elementów HTML i ich rodzajów. Każdy element musi znaleźć się w oddzielnej komórce tabeli. Wypełnij ją według schematu poniżej:
 
  ![List of characters](images/box_model.png)
 

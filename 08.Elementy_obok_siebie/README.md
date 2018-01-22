@@ -6,18 +6,38 @@ Ustaw elementy według poniższego wzoru.
 
 ![screen](images/elements.png)
 
-##### 1. W pierwszym wierszu mają być dwa elementy **div** o następujących własnościach:
+
+##### 1. Nadaj elementom odpowiednie id:
+  * Pierwszy div - na obrazku 'Div 1.' - **`id="first-div"`**
+  * drugi div - na obrazku 'Div 2.' - **`id="second-div"`**
+  * Paragrafom nie nadawaj id/klas - ostyluj je odnosząc się do selektora **`p`**
+
+##### 2. W pierwszym wierszu mają być dwa elementy **div** o następujących własnościach:
   * szerokość elementu: 100px,
   * wysokość elementu: 100px,
   * szerokość obramowania: 1px,
   * styl obramowania: pojedyncza linia ciągła (**solid**),
   * kolor obramowania: czarny.
 
+  **Ważne** - powyższe własnosci (odnoszące się do obu div-ów) ostyluj odnosząc się do selektora **`div`**. Odpowiednie id (**`id="first-div"`** oraz **`id="second-div"`**) wykorzystaj tylko do odpowiedniego rozmieszczenia elementów.
+
+  ```css
+  div {
+    /* Tutaj deklaracja własności dla obu diw-ów */
+  }
+  #first-div {
+    /* Tutaj deklaracja własności indywidualnych dla diva o id="first-div" */
+  }
+  #second-div {
+    /* Tutaj deklaracja własności indywidualnych dla diva o id="second-div" */
+  }
+  ```
+
   Pierwszy div ma znajdować się po lewej stronie, a drugi &ndash; po prawej.
 Między nimi nie może być żadnych elementów.
 
 
-##### 2. W drugim wierszu mają się znaleźć dwa paragrafy o następujących własnościach:
+##### 3. W drugim wierszu mają się znaleźć dwa paragrafy o następujących własnościach:
   * szerokość elementu: 80px,
   * szerokość obramowania: 2px,
   * styl obramowania: pojedyncza linia kropkowana (**dotted**),
