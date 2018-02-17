@@ -1,0 +1,46 @@
+#spanOne {
+  color: blue;
+}
+
+#spanTwo {
+  color: green;
+}
+
+#insideOne{
+  color: red;
+}
+
+#insideTwo{
+  color: green;
+}
+
+#insideThree{
+  color: darkkhaki;
+}
+
+#divOne {
+  color: hsl(278, 26%, 50%);
+}
+
+#divTwo {
+  color: rgb(100, 161, 94);
+}
+
+#divThree {
+  color: #5e84a1;
+}
+
+.container {
+  background-color: rgb(60, 161, 94);
+  width: 200px;
+}
+
+#paragraphOne {
+  background-color: rgb(30, 100, 120);
+  width: 50%;
+}
+
+#paragraphTwo {
+  background-color: rgb(60, 130, 94);
+  width: 10em;
+}
